@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/s.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 3e602e57221923d4892d353905e99a95
+  - enabled: 1
+    path: Assets/Scenes/FabulaElgalloylAJoya/felicidades1.unity
+    guid: 9acbd730d5c4a974e852a5f4d3851467
+  - enabled: 1
+    path: Assets/Scenes/Lacajadepandora/a jugar.unity
+    guid: 846aba87abac73745951e8f6d125354f
+  - enabled: 1
+    path: Assets/Scenes/nivel1.unity
+    guid: 56167c307c9bf47fb8bbcfef6c884105
+  - enabled: 1
+    path: Assets/Scenes/Lacajadepandora/nivel2.unity
+    guid: 679742a08cf99a04c98e605a257c8cea
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/a jugar 3.unity
+    guid: 2514869fa0c544f49912ba24048b2bb7
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: cf106427e633a334ab50982bb839cf0f
+  - enabled: 1
+    path: Assets/Scenes/FabulaElgalloylAJoya/Parte3 2.unity
+    guid: 655d6ebfa11f70647a42cf24b3d876b8
+  - enabled: 1
+    path: Assets/Scenes/FabulaElgalloylAJoya/Parte3 1.unity
+    guid: b87f9cd2fdc0f904e80d0d01d290fed2
+  - enabled: 1
+    path: Assets/Scenes/Lacajadepandora/Parte1.unity
+    guid: 08fa59ff519e7c7408f3253be0249ca8
+  - enabled: 1
+    path: Assets/Scenes/Lacajadepandora/Parte2.unity
+    guid: fea8de2cf094954479cce9eb7773423f
+  - enabled: 1
+    path: Assets/Scenes/Lacajadepandora/Parte3.unity
+    guid: bbf780f36fac0ba47bc19ceb7edeffa3
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento1.unity
+    guid: 6868c74c1027f6c4db2a812c0e5452d5
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento2.unity
+    guid: 5bc8af820d22a9f4196addcefa947b1a
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento3.unity
+    guid: 77f8d1e660498a44e88eef4941e604ca
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento4.unity
+    guid: ec5ff356aaff72e47b68adeb0ae83d63
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento5.unity
+    guid: 0cb2627e36f1f1a44822850acedd8c93
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento7.unity
+    guid: cb9497ab383207944a03aa3180859790
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento6.unity
+    guid: 7f2b04afb1481ad43804b135f0a14c55
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento8.unity
+    guid: 2b02a85c586070349808146e14ac18c7
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/Cuento9.unity
+    guid: 1d3692d00123e424daddd8b59f434c52
+  - enabled: 1
+    path: Assets/Scenes/Los tres cerditos/nivel3.unity
+    guid: 16702fa1b428ce649aadb15184658790
+  m_configObjects: {}
